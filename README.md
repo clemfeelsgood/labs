@@ -1,2 +1,2 @@
 # labs
-AWS Labs
+A mix of SageMaker and Bedrock Machine Learning Labs
