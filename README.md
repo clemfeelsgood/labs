@@ -1,2 +1,2 @@
 # labs
-A mix of SageMaker and Bedrock Machine Learning Labs
+Repository of SageMaker Machine Learning Labs
